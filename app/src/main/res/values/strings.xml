@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in"> Sign in</string>
+
+    <string name="next">Next</string>
+    <string name="welcome_title">Welcome to the Shoe Store App</string>
+    <string name="welcome_message">Hi %1$s! Here you can store and retrieve shoe information.</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_step_one">- Tap the + button to add a new shoe to your inventory</string>
+    <string name="instructions_step_two">- Tap the Save Button to save the shoe to your inventory</string>
+
+    <string name="shoes">Shoes</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="name">Name:</string>
+    <string name="enter_shoe_name">Enter Shoe Name</string>
+    <string name="description">Description:</string>
+    <string name="company">Company:</string>
+    <string name="size">Size:</string>
+    <string name="enter_company_name">Enter Company Name</string>
+    <string name="enter_shoe_size">Enter Shoe Size</string>
+    <string name="enter_shoe_description">Enter Shoe Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="shoe_name_hint">Shoe Name</string>
+    <string name="company_name_hint">Company Name</string>
+    <string name="shoe_size_hint">Shoe Size</string>
+    <string name="description_hint">Description</string>
+    <string name="logout">Logout</string>
+</resources>
