@@ -123,7 +123,7 @@
                     android:ems="10"
                     android:hint="@string/enter_shoe_size"
                     android:inputType="numberDecimal"
-                    android:text="@{Double.toString(listViewModel.shoe.size)}" />
+                    android:text="@={`` + listViewModel.shoe.size}" />
             </LinearLayout>
 
             <LinearLayout
