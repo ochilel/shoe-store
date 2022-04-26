@@ -10,6 +10,8 @@
             name="shoe"
             type="com.udacity.shoestore.models.Shoe" />
     </data>
+
+    <!-- I prefer ConstraintLayout because it allows me to change the dimensions of elements without losing their place -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">

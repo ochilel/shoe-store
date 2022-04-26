@@ -9,6 +9,8 @@
             type="com.udacity.shoestore.MainActivity" />
     </data>
 
+    <!-- I prefer the linear layout as it allows me to display the views evenly on the screen and is useful when I need to use views that don't change size.  -->
+
     <LinearLayout
         android:id="@+id/container"
         android:layout_width="match_parent"
